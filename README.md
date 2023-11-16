@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zunaira Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/Zunairaaaaaaaah/Zunairaaaaaaaah/assets/151055325/0d0e6bc2-f445-4467-baf5-3a7404fff467)"
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zunairaaaaaaaah&label=Profile%20views&color=0e75b6&style=flat" alt="zunairaaaaaaaah" /> </p>
 
