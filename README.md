@@ -1,3 +1,4 @@
+![logo](https://github.com/Zunairaaaaaaaah/Zunairaaaaaaaah/blob/main/giphy%20(1).gif)
 <h1 align="center">Hi 👋, I'm Zunaira Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"
